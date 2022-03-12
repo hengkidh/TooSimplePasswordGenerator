@@ -6,7 +6,7 @@ Password Generator Sederhana
 
 * Streamlit
   ```sh
-  pip install streamlite
+  pip install streamlit
   ```
 
 **Versi**
