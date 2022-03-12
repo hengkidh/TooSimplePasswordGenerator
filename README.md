@@ -15,4 +15,4 @@ Password Generator Sederhana
 * V 1.0.1 - Menambah slider untuk mempermudah akses di mobile
 
 demo
-https://share.streamlit.io/hengkidh/simplepasswordgenerator/pwgen.py
+https://share.streamlit.io/hengkidh/toosimplepasswordgenerator/pwgen.py
